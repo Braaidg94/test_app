@@ -7,8 +7,6 @@ Things you may want to cover:
 
 * 2.7.0
 
-* System dependencies
-
 * Configuration
 
 * Database creation
